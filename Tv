@@ -1,0 +1,184 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Latino
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Latino
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sony.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT Latino
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT Series
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt_ser.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinecanal
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinecanal.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX Latino
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sundance
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sundance.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox life
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xlife.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/golden.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Studio Universal
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/stdio_univ.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TCM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tcm.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A&E
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/aehd.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comedy Central
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cc.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tbs.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Home and Health
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_hh.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", N/A
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/isat.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TruTV
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/trutv_hd.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/axn.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Warner
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/warner.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/univers.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FXM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fxm.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Space
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/space.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", De Película
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/depelicula.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AMC
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/amc.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinemax
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/c1nemax.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/param.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DHE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dhe.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ID
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/idhd.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eurochannel
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/eurochannel.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinema dinamita
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinema_dinamita.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cine latino
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinelatino.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multipremier
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/multipremier.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden Premier
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/goldp.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox series https://www.tvonlinestreams.com
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Movies
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_movies.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Classics
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_classics.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Cinema
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Family
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_family.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Action
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_action.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Comedy
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_comedy.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb02.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Family
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0fam.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Plus
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0plus.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Signature
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0sign.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Max Up
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xup.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Max Prime
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xprime.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Classics
+http://3-120heat.pulsedmedia.com:80/public-llave1/list/public/f0x_classics.php
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Cinema
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/claro_Cinema.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boomerang
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/boomerang.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cartoon Network
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cart_net.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Channel
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sney.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney JR
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sneyjr.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney XD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sneyxd.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tooncast
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tooncast.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick 2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick2.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Kids
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_kids.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Natgeo Kids
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids.php/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Natgeo Kids MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kidsmx.php/Stream(04)/index.m3u8
